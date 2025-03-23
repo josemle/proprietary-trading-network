@@ -43,7 +43,7 @@
   </ol>
 </details>
 
----
+--- 
 
 <details id='bittensor'>
   <summary>What is Bittensor?</summary>
